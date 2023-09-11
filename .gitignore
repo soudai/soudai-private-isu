@@ -1,0 +1,27 @@
+/log
+/result
+/go
+/local
+/backup
+
+# 不定
+.ansible/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.bundle/
+.cache/
+.config/
+.gitconfig
+.local/
+.mysql_history
+.npm/
+.motd_shown
+.profile
+.xbuild/
+.rustup/
+.ssh/
+.viminfo
+/benchmarker
+
